@@ -1,0 +1,10 @@
+4.3 
+Cool features:
+1)Animation when discs change color
+2)Timer
+3)Player ratings
+
+Bad features:
+1)Annoying sounds
+2)Outdated design
+3)Annoying ads

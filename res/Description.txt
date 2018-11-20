@@ -1,0 +1,2 @@
+A modern take on the all time classic Reversi!
+PvP online experience with Rankings
